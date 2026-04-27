@@ -18,7 +18,7 @@ O projeto está organizado por categorias para facilitar o aprendizado e a consu
 
 ## 📝 Como utilizar
 
-1. Faça o download e instale o [VisuAlg](https://visualg3.com.br/).
+1. Faça o download e instale o [VisuAlg](https://sourceforge.net/projects/visualg30/).
 2. Clone este repositório ou baixe o arquivo `.alg` desejado.
 3. Abra o arquivo no VisuAlg e pressione `F9` para executar.
 
