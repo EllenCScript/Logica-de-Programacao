@@ -3,7 +3,6 @@ Var
 i, qnt : inteiro
 nota1, nota2, media : vetor [0..9] de real
 nome : vetor [0..9] de caractere
-maisVelho : caractere
 Inicio
 
 escreva("Digite a quantidade de alunos: ")
