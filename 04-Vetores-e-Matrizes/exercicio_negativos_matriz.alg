@@ -3,7 +3,6 @@ Var
 
 N, M, i, j: inteiro
 mat: vetor[0..9, 0..9] de inteiro
-vet: vetor[0..9] de inteiro
 
 Inicio
 
@@ -28,7 +27,5 @@ para i de 0 ate M-1 faca
   fimse
  fimpara
 fimpara
-
-
 
 Fimalgoritmo
